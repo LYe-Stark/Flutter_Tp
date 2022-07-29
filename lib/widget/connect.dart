@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tp_flutter/Widget/Affichage.dart';
+import 'package:tp_flutter/widget/affichage.dart';
 
 var text="";
 var cond=false;

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tp_flutter/Widget/connect.dart';
+import 'package:tp_flutter/widget/connect.dart';
 
 class ScreenConnexion extends StatefulWidget {
   const ScreenConnexion({Key? key}) : super(key: key);

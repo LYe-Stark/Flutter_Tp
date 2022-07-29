@@ -1,0 +1,20 @@
+ 		RAPPORT INITIATION FLUTTER :
+Au cours de cette initiation à flutter nous avions tout d’abord aborder ce que c’est que flutter ensuite nous avions mis un doigt sur les notions primordiales pour bien maîtriser cet outil tels que la POO.
+
+Flutter est un Framework de Google qui provient du langage Dart,
+ il est utilisé pour créer des applications multiplate-formes ce qui est une avancer énorme pour la programmation du sens que l’on a plus besoin de maîtriser deux langages pour développer en Android (JAVA) et en IOS (Objectif C).
+Résumez: 1
+Nous avions abordé l’arborescence de l’architecture d’un projet flutter. Ainsi le dossier lib est le plus important dans cette arborescence; il contient le fichier main.dart . Dans ce fichier man.dart nous avions découvert le code venu par défaut qui à été effacer puis nous l’avions nous-même coder.
+Pour commencer nous avions importé le material.dart qui est la bibliothèque indispensable contenant les class préétablir dans flutter pour la programmation Android mais, nous avions parlez de son homologue pour IOS qui est Kupertino.dart  .
+Après cela il nous faillait déclarer une fonction void qui prend en son sein une autre fonction RunApp qui est indispensable au lancement de notre interface.
+Ensuite vient la déclaration d’un widget ( classe ou composant pouvant être pain sur l’interface écran ) qui est soit widgetStateless ( sans état ) ou widgetStatefull ( avec état ). Elle vient avec le materialApp dont la propriété la plus importante est le home.
+Ensuite on a abordez le widget Scanfold dans lequel plusieurs propriétés concourent a la creation de l’interface dont AppBar,body,etc
+Nous avions aussi abordé le drawer qui permet d’avoir un menu déroulant de la gauche vers la droite au click de son Icon a trois traits.
+Résumez: 2
+Nous avions abordé les constructeurs et les constructeurs nommés (constructeur portant le nom de la classe.son_nom).
+Ensuite nous avions abordez les propriétés Navigator.Push (pour revenir ou on était) et Navigator.pop (pour revenir à la page d’accueil) qui sont utilisez pour indiquez la page sur laquelle renvoi un click sur un l’un des composant du drawer.
+Ensuite nous avions parler de la class TextField qui permet de dessinez les imputs en flutter, ses propriétés abordez sont KeyboardType pour exigez un clavier précis lors de l’écriture dans ce champ, obscureText pour masquez la saisie de l’utilisateur.
+La fonction setState qui permet de redessiner l’écran lorsqu’elle est appeler pour permettre le passage de l’état de base à l’état suivant.
+Pour finir nous avions aborder la réalisation des checkbox, des slider et des switch.
+Pour conclure cette initiation à flutter nous avions parlez des différentes  choses qui nous manquais tel une bonne base en POO,un rendu conditionnel,le traitement de formulaire en flutter,l’architecture d’un projet flutter,les bases de données,la programmation asynchrone et synchrone,la notion d’API
+
